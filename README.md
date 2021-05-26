@@ -1,6 +1,6 @@
-Hi 🙋, I'm Ritu Shrivastava
+                          Hi 🙋, I'm Ritu Shrivastava
                                                                     
-💻 A passionate Web Developer working In Singapore
+                  💻 A passionate Web Developer working In Singapore
 
 🔭 I’m currently working on web applications.
 ❤️ I love to design prototypes, code, build websites and web applications.
